@@ -107,7 +107,9 @@ function Design() {
                           <img
                             onClick={() => removeItems(product.id)}
                             className="w-5 h-5"
-                            src="https://cdn-icons-png.flaticon.com/128/1214/1214428.png" alt="deleteicon"/>
+                            src="https://cdn-icons-png.flaticon.com/128/1214/1214428.png" 
+                            alt="deleteicon"
+                            />
                         </div>
                         <div className="flex gap-2">
                           <img
